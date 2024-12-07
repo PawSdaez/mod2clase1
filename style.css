@@ -1,0 +1,40 @@
+* {
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: blueviolet; 
+    font-size: 25px;
+}
+p:hover{
+    color: rgb(17, 19, 121); 
+    font-size: 45px;
+}
+nav {
+    color: blue;
+}
+nav img {
+    width: 50px;
+    height: 50px;
+}
+nav img:hover {
+    width: 80px;
+    height: 80px;
+}
+.obra-foto {
+    background-color: aquamarine ;
+}
+#comida-especial {
+    background-color: red;
+}
+article img{
+    width: 500px;
+    height: 400px;
+}
+
+article img:hover{
+    width: 80px;
+    height: 80px;
+}
